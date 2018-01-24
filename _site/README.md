@@ -1,4 +1,4 @@
-# jekyll-theme-hackcss
+# Putu
 
 [Dead simple CSS framework](http://hackcss.com/) now with Jekyll.
 
