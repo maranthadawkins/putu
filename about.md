@@ -4,6 +4,6 @@ title: about
 permalink: /about/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+MARANTHA DAWKINS is interested in ecology and mutation as contexts and mediums of design. Her current work engages computation, bioremediation, inter-species infrastructures, and urban experience.
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+Marantha received her Bachelor of Landscape Architecture from Cornell University in 2014, and her Master of Urban Design from Carnegie Mellon University in 2016.

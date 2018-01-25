@@ -6,12 +6,12 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jan 2018 09:54:00 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Jan 2018 09:54:00 -0500</lastBuildDate>
+    <pubDate>Wed, 24 Jan 2018 19:14:32 -0500</pubDate>
+    <lastBuildDate>Wed, 24 Jan 2018 19:14:32 -0500</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>projects</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://unsplash.it/800/600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
@@ -24,7 +24,7 @@
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>coming</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://unsplash.it/800/600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
@@ -37,7 +37,7 @@
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>soon</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://unsplash.it/800/600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
@@ -45,19 +45,6 @@
         <pubDate>Wed, 07 Oct 2015 11:39:40 -0400</pubDate>
         <link>http://localhost:4000/2015/10/07/welcome-to-jekyll/</link>
         <guid isPermaLink="true">http://localhost:4000/2015/10/07/welcome-to-jekyll/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://unsplash.it/800/600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Oct 2015 11:39:40 -0400</pubDate>
-        <link>http://localhost:4000/2015/10/06/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/10/06/welcome-to-jekyll/</guid>
         
         
       </item>
