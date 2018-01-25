@@ -1,11 +1,11 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: mdawkins
+email: maranthadawkins@domain.com
 description: XXX
-baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/me" # the subpath of your site, e.g. /blog
+url: "http://maranthadawkins.com" # the base hostname & protocol for your site
+twitter_username: mdawkins
+github_username:  maranthadawkins
 
 # Build settings
 markdown: kramdown
