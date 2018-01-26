@@ -2,7 +2,7 @@
 title: mdawkins
 email: maranthadawkins@domain.com
 description: XXX
-baseurl: "/me" # the subpath of your site, e.g. /blog
+baseurl: "/putu" # the subpath of your site, e.g. /blog
 url: "http://maranthadawkins.com" # the base hostname & protocol for your site
 twitter_username: mdawkins
 github_username:  maranthadawkins
